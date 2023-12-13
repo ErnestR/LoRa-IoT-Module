@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LORA_STATUS Pin=U400-32
+Added Pin To Net: NetName=LORA_STATUS Pin=U400-25

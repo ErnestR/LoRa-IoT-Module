@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [V1] of PCB Document [LoraIoT.PcbDoc]
+   Generated File[LoraIoT(V1).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:37:37 On 10.12.2023

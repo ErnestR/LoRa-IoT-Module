@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+VDD_LORA Pin=C300-2
+Removed Pin From Net: NetName=+VDD_LORA Pin=C301-2
+Removed Pin From Net: NetName=+VDD_LORA Pin=U300-1
+Added Pin To Net: NetName=+VDD_RADIO Pin=C300-2
+Added Pin To Net: NetName=+VDD_RADIO Pin=C301-2
+Added Pin To Net: NetName=+VDD_RADIO Pin=U300-1

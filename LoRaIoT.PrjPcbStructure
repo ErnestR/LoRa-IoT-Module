@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=[1] COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[1] COVER PAGE.SchDoc|FileName=[2] BLOCK DIAGRAM.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[1] COVER PAGE.SchDoc|FileName=[3] LORA MODULE.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[1] COVER PAGE.SchDoc|FileName=[4] MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[1] COVER PAGE.SchDoc|FileName=[5] POWER.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[1] COVER PAGE.SchDoc|FileName=[6] SENSORS.SchDoc|SheetNumber=6
